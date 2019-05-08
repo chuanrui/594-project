@@ -1,0 +1,121 @@
+Google Translate is a free multilingual machine translation  service developed by Google, to translate text. It offers a website interface, mobile apps for Android and iOS, and an API that helps developers build browser extensions and software applications. Google Translate supports over 100 languages at various levels and as of  May 2017, serves over 500 million people daily.
+Launched in April 2006 as a statistical machine translation service, it used United Nations and European Parliament transcripts to gather linguistic data. Rather than translating languages directly, it first translates text to English and then to the target language. During a translation, it looks for patterns in millions of documents to help decide on the best translation. Its accuracy has been criticized and ridiculed on several occasions. In November 2016, Google announced that Google Translate would switch to a neural machine translation engine - Google Neural Machine Translation (GNMT) - which translates "whole sentences at a time, rather than just piece by piece. It uses this broader context to help it figure out the most relevant translation, which it then rearranges and adjusts to be more like a human speaking with proper grammar". Originally only enabled for a few languages in 2016, GNMT is gradually being used for more languages.
+
+
+== History ==
+Google Translation is a complimentary translation service developed by Google in April 2006. It translates multiple forms of texts and media such as words, phrases and webpages.
+Originally Google Translate was released as a Statistical Machine Translation (SMT). Translating the required text into English before translating into the selected language was a mandatory step that it had to take. Since SMT uses predictive algorithms to translate text, it had poor grammatical accuracy. However, Google initially did not hire experts to resolve this limitation due to ever-evolving nature of language.In January 2010, Google has introduced Android app and iOS version in February 2011 to serve as a portable personal interpreter. As of February 2010, it was integrated into browsers such as Chrome and was able to pronounce the text, automatically recognize words in the picture and spot unfamiliar text and languages.In May 2014, Google acquired Word Lens to improve the quality of visual and voice translation. It is able to scan text or picture with one's device and have it translated instantly. Moreover, the system automatically identifies foreign languages and translates speech without requiring individuals to tap the mic button whenever speech translation is needed.In November 2016, Google has transitioned its translating method to a system called “Neural Machine Translation.” It uses Deep Learning techniques to translate the whole sentences at a time and ensures greater accuracy of the context.As of 2018, it translates more than 100 billion words a day.
+
+
+== Functions ==
+Google Translate can translate multiple forms of text and media, which includes text, speech, images, and videos. Specifically, its functions include:
+
+
+=== Written Words Translation ===
+A function that translates written words or text to a foreign language.
+
+
+=== Website Translation ===
+A function that translates a whole webpage to selected languages
+
+
+=== Document Translation ===
+A function that translates a document uploaded by the users to selected languages. The documents should be in the form of: .doc, .docx, .odf, .pdf, .ppt, .pptx, .ps, .rtf, .txt, .xls, .xlsx.
+
+
+=== Speech Translation ===
+A function that instantly translates spoken language into the selected foreign language.
+
+
+=== Mobile App Translation ===
+In 2018, Google Translate has introduced its new feature called “Tap to Translate,” which made instant translation accessible inside any apps without exiting or switching it.
+
+
+=== Image Translation ===
+A function that identifies text in a picture taken by the users and translates text on the screen instantly.
+
+
+=== Handwritten Translation ===
+A function that translates language that are hand written on the phone screen or drew on a virtual keyboard without the support of keyboard.For most of its features, Google Translate provides the pronunciation, dictionary, and listen to translation. Additionally, Google Translate has introduced its own Translate app, so translation is available with mobile phone in offline mode.
+
+
+== Features ==
+Google Translate can translate multiple forms of text and media, including text, speech, images, sites, or real-time video, from one language to another. It supports over 100 languages at various levels and as of  May 2017, serves over 500 million people daily. For some languages, Google Translate can pronounce translated text, highlight corresponding words and phrases in the source and target text, and act as a simple dictionary for single-word input. If "Detect language" is selected, text in an unknown language can be automatically identified. If a user enters a URL in the source text, Google Translate will produce a hyperlink to a machine translation of the website. Users can save translations in a "phrasebook" for later use. For some languages, text can be entered via an on-screen keyboard, through handwriting recognition, or speech recognition.
+
+
+=== Browser integration ===
+Google Translate is available in some web browsers as an optional downloadable extension that can run the translation engine. In February 2010, Google Translate was integrated into the Google Chrome browser by default, for optional automatic webpage translation.
+
+
+=== Mobile apps ===
+
+The Google Translate app for Android and iOS supports more than 100 languages and can translate 37 languages via photo, 32 via voice in "conversation mode", and 27 via real-time video in "augmented reality mode".The Android app was released in January 2010, and for iOS on February 8, 2011.A January 2011 Android version experimented with a "Conversation Mode" that allowed users to communicate fluidly with a nearby person in another language. Originally limited to English and Spanish, the feature received support for 12 new languages, still in testing, the following October.In January 2015, the apps gained the ability to translate physical signs in real time using the device's camera, as a result of Google's acquisition of the Word Lens app. The original January launch only supported seven languages, but a July update added support for 20 new languages, and also enhanced the speed of Conversation Mode translations.
+
+
+=== API ===
+In May 2011, Google announced that the Google Translate API for software developers had been deprecated and would cease functioning. The Translate API page stated the reason as "substantial economic burden caused by extensive abuse" with an end date set for December 1, 2011. In response to public pressure, Google announced in June 2011 that the API would continue to be available as a paid service.Because the API was used in numerous third-party websites and apps, the original decision to deprecate it led some developers to criticize Google and question the viability of using Google APIs in their products.
+
+
+=== Google Assistant ===
+Google Translate also provides translations for Google Assistant and the devices that Google Assistant runs on such as Google Home and Google Pixel Buds.
+
+
+== Supported languages ==
+The following languages are supported in Google Translate.
+
+
+== Method of translation ==
+In April 2006, Google Translate launched with a statistical machine translation engine.Google Translate does not apply grammatical rules, since its algorithms are based on statistical analysis rather than traditional rule-based analysis. The system's original creator, Franz Josef Och, has criticized the effectiveness of rule-based algorithms in favor of statistical approaches. It is based on a method called statistical machine translation, and more specifically, on research by Och who won the DARPA contest for speed machine translation in 2003. Och was the head of Google's machine translation group until leaving to join Human Longevity, Inc. in July 2014.According to Och, a solid base for developing a usable statistical machine translation system for a new pair of languages from scratch would consist of a bilingual text corpus (or parallel collection) of more than 150-200 million words, and two monolingual corpora each of more than a billion words. Statistical models from these data are then used to translate between those languages.
+To acquire this huge amount of linguistic data, Google used United Nations and European Parliament transcripts.Google Translate does not translate from one language to another (L1 → L2). Instead, it often translates first to English and then to the target language (L1 → EN → L2).When Google Translate generates a translation, it looks for patterns in hundreds of millions of documents to help decide on the best translation. By detecting patterns in documents that have already been translated by human translators, Google Translate makes intelligent guesses as to what an appropriate translation should be.Before October 2007, for languages other than Arabic, Chinese and Russian, Google Translate was based on SYSTRAN, a software engine which is still used by several other online translation services such as Babel Fish (now defunct). Since October 2007, Google Translate has used proprietary, in-house technology based on statistical machine translation instead.
+
+
+=== Google Translate Community ===
+Google constantly seeks for volunteers to be a part of its “Translate Community” to translate languages people speak and help improve Google Translate's accuracy. There are two ways to contribute. First, Google will show a phrase then one should type in the translated version. Second, Google will show all possible translation for a phrase for individuals to click the right translation.
+
+
+=== Statistical Machine Translation ===
+Although, Google deployed a new system called “Neural Machine Translation” for better quality translation, there are languages that still use the traditional translation method called “Statistical Machine Translation.” It is a “rule-based” translation method that utilizes predictive algorithms to guess ways to translate texts in foreign languages. It aims to translate whole phrases rather than single words then gather overlapping phrases for translation. Moreover, it also analyzes bilingual text corpora to generate statistical model that translates texts from one language to another.
+
+
+=== Google Neural Machine Translation ===
+
+In September 2016, a research team at Google led by the software engineer Harold Gilchrist announced the development of the Google Neural Machine Translation system (GNMT) to increase fluency and accuracy in Google Translate and in November announced that Google Translate would switch to GNMT.
+Google Translate's neural machine translation system uses a large end-to-end artificial neural network capable of deep learning, in particular, long short-term memory networks.
+GNMT improves the quality of translation because it uses an example-based machine translation (EBMT) method in which the system "learns from millions of examples." It translates "whole sentences at a time, rather than just piece by piece. It uses this broader context to help it figure out the most relevant translation, which it then rearranges and adjusts to be more like a human speaking with proper grammar". GNMT's "proposed architecture" of "system learning" was first tested on over a hundred languages supported by Google Translate. With the end-to-end framework, "the system learns over time to create better, more natural translations." The GNMT network is capable of interlingual machine translation, which encodes the "semantics of the sentence rather than simply memorizing phrase-to-phrase translations", and the system did not invent its own universal language, but uses "the commonality found inbetween many languages". GNMT was first enabled for eight languages: to and from English and Chinese, French, German, Japanese, Korean, Portuguese, Spanish and Turkish. In March 2017, it was enabled for Hindi, Russian and Vietnamese languages, followed by Indonesian, Bengali, Gujarati, Kannada, Malayalam, Marathi, Punjabi, Tamil and Telugu languages in April.GNMT has the capability to translate directly from one language to another (L1 → L2), which improves upon the previous versions of Google Translate which first translated to English and then to the target language (L1 → EN → L2). The GNMT system is also capable of Zero-Shot Translation - translating between a language pair (for example, Japanese to Korean) which the "system has never explicitly seen before."
+
+
+=== Crowdsourcing ===
+In 2014, Google launched "Translate Community", a platform aimed at improving the translation service by seeking help from volunteers. In August 2016, a Google Crowdsource app was released for Android users, in which translation tasks are offered.
+
+
+== Accuracy ==
+Although Google Translate is not as reliable as Human Translation, it has sufficient ability to provide relatively accurate translation and a gist of foreign language text. It has ability to translate text with the general use of words and phrases in a consistent manner. A research conducted in 2011 showcased that Google Translate got slightly higher score than UCLA minimum score for English Proficiency Exam. Due to its use of identical choice of words without considering the flexibility of choosing the alternative words or expressions, it produces relatively similar translation to human translation from the perspective of formality, referential cohesion, and conceptual cohesion. Moreover, a number of languages are translated into the similar sentence structure and sentence length with the human translation. Google carried out a test that required native speakers of each language to rate the translation with a scale between 0 and 6 and the results showed that Google Translate got 5.43 on average.
+
+
+== Limitations ==
+Due to the differences in complexity and nature of language, the accuracy vary greatly among languages. Some languages produce better results than others. Typically, western languages such as English and Spanish are generally accurate, and the accuracy of African languages are often the poorest, followed by Asian and European languages. Moreover, Google Translate performs well especially when English is the target language and the source language is from the European Union due to the prominence of translated EU parliament notes. A 2010 analysis indicated that French to English translation is relatively accurate.However, if the source text is shorter, rule-based machine translations often perform better; this effect is particularly evident in Chinese to English translations. While edits of translations may be submitted, in Chinese specifically one is not able to edit sentences as a whole. Instead, one must edit sometimes arbitrary sets of characters, leading to incorrect edits. A good example is Russian-to-English. Formerly one would use Google Translate to make a draft and then use a dictionary and common sense to correct the numerous mistakes. As of early 2018 Translate is sufficiently accurate to make the Russian Wikipedia accessible to those who can read English. The quality of Translate can be checked by adding it as an extension to Chrome and applying it to the left language links of any Wikipedia article.
+After the Google Translate has deployed a new technology called “Neural Machine Translation,” to translate whole sentences or text block in the context at a time, seeing the alternative translation for a word or phrase is not available anymore. Moreover, in its “Written Words Translation” function, there is a word limit on the amount of text that can be translated at once. Therefore, long text should be transferred to a document form and translated through its “Document Translate” function.Moreover, machine translation often does not identify the double meanings of a word. A word in foreign language might have two different meanings in the translated language. As a result, it might lead to mistranslations.
+Additionally, grammatical error remains as a major limitation that face Google Translate's attempts at accuracy.
+
+
+== Reviews ==
+Shortly after launching the translation service for the first time, Google won an international competition for English–Arabic and English–Chinese machine translation.
+
+
+=== Translation mistakes and oddities ===
+Since Google Translate used statistical matching to translate, translated text can often include apparently nonsensical and obvious errors, sometimes swapping common terms for similar but nonequivalent common terms in the other language, or inverting sentence meaning. Novelty websites like Bad Translator and Translation Party have utilized the service to produce humorous text by translating back and forth between multiple languages, similar to the children's game telephone.
+
+
+== Court usage ==
+In 2017, Google Translate was used during a court hearing when court officials at Teesside Magistrates' Court failed to book an interpreter for a Chinese defendant.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Official website 
+Translate Community

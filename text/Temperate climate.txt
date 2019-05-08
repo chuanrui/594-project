@@ -1,0 +1,90 @@
+In geography, the temperate or tepid climates of Earth occur in the middle latitudes, which span between the tropics and the polar regions of Earth. These zones generally have wider temperature ranges throughout the year and more distinct seasonal changes compared to tropical climates, where such variations are often small. They typically feature four distinct seasons, Summer the warmest, Autumn the transitioning season to Winter, the colder season, and Spring the transitioning season from winter back into summer. On the northern hemisphere the year starts with winter, transitions in the first halfyear trough spring into summer which is in mid-year, then at the second halfyear trough autumn into winter at year-end. On the southern hemisphere seasons are swapped with summer in between years and winter in mid-year. 
+The temperate zones (latitudes from 35° to the polar circles at about 66.5°, north and south) are where the widest seasonal changes occur, with most climates found in it having some influence from both the tropics and the poles. The subtropics (latitudes from about 23.5° to 35°, north and south) have temperate climates that show further similarities with the tropics, usually having warmer summers and milder winters. The poleward outskirts of the temperate zones are where the coldest but yet temperate climates such as the boreal climate are found, with colder winters and milder summers, showing further similarities with the poles. 
+It is not only latitudinal positions that influence temperature changes: sea currents, air masses, continentality, maritimity, and altitude are also defining factors, with climates considered temperate being found even in tropical areas or milder climates in polar regions. Humidity and precipitation changes are also taken into account.
+The Köppen climate classification defines a climate as "temperate" when the coldest month has a mean temperature below 18 °C (64.4 °F).
+
+
+== Zones and climates ==
+The north temperate zone extends from (approximately 23.5° north) to the Arctic Circle (approximately 66.5° north latitude). The south temperate zone extends from (approximately 23.5° south) to the Antarctic Circle (at approximately 66.5° south).In some climate classifications, the temperate zone is often divided into several smaller climate zones, based on monthly temperatures, the coldest month, and rainfall. These include humid subtropical climate, Mediterranean climate, oceanic, and continental climate.
+
+
+=== Subtropics ===
+These are the climates that are typically found at the tropical edge of the temperate zone between 23.5° and 35° north or south, and thus are far more influenced by the tropics than any other tepid climate type, usually having warmer temperatures over the year, longer summers and mild, short winters. Phenomena such as snow is more rare in these parts. The further close to the tropics the warmer the summers and milder the winters, blending into the frost-less tropical zone, the further away the colder it gets while still being classified as subtropical untill getting characteristics from other temperate climates such as colder winters or milder summers.
+
+
+==== Humid Subtropical (Cfa) ====
+
+Humid Subtropical climates generally have no marked dry season with rainfall and relative humidity evenly distributed over the year, influenced by Humid Tropical regions and by warm ocean currents. They are predominant on the leeward southeastern corners of the continents such as in southeast of South America (Argentina, Uruguay and Brazil), China, The United States, South Africa, eastern Australia and parts of southern Europe namely the Pó Valley of northern Italy.
+
+
+==== Monsoonal Subtropical (Cwa) ====
+Monsoonal Subtropical climates are the ones with a marked winter dry/drier season with rainfall usually on the warmest months with the coming of monsoons from humid tropical zones. Are usually found at the edges of predominantly Humid Subtropical regions nearby Arid and Semi-Arid climates, less influenced by the humid tropics and warm oceans, such as southeastern China and Northern India or High altitude areas in the Tropical and Subtropical zone, such as the highlands of Mexico, South America and Sub-saharan Africa
+
+
+==== Mediterranean (Csa) ====
+
+Mediterranean Climates, opposite to the monsoonal variety have a dry summer, with rainfall on the winter and cooler months. They occur mostly at the western edges and coasts of the continents and are bounded by arid deserts on their erquatorward sides that cause the dry season of summer, and oceanic climates to the poleward sides that are influenced by warm and humid ocean currents and air masses that bring the rainfall of winter. The five main mediterranean regions of the world are the Mediterranean Sea basin in northwestern Afro-Eurasia, the west coast of North America specially California, the southwest of South America namely Argentina and Chile, the Western Cape of South Africa and the south and southwestern coast of Australia.
+
+
+==== Subtropical/Tropical Highland (Cfb, Cwb, Csb) ====
+These are variants of the subtropical climates found in high altitude plateaus or montane systems either in the tropics or subtropics, they have characteristically mild temperatures year round, featuring the four seanons in the subtropics and no marked seasons in the tropics, the latter usually remaining mild to cool trough most of the year.
+
+
+=== Middle-Latitudes ===
+These occur in the higher middle latitudes, between 45° and 60° north and south and are the ones with the most of practically equal influence from the equator and the poles, and the most characteristc temperate climates with the typical distinct four season pattern. In these the temperatures remain relatively cool trough most of the year as opposed to mild and warm in the subtropics and cold in the subpoles.
+
+
+==== Oceanic (Cfb) ====
+The Oceanic climates are created by the onshore flow from the cool high latitude oceans to their west. This causes the climate to have cool summers and cool (but not cold) winters, and relative humidity and precipitation evenly distributed along the year. These climates are frequently cloudy, and are fairly milder both in winter and summer in comparison to other temperate climates. Annual rainfall is spread throughout the entire year. Regions with this climate include Northwestern Europe, Northwestern North America, southeastern and southwestern South America, southeastern Australia and most of New Zealand.
+
+
+==== Warm-Summer Mediterranean (Csb) ====
+Is a variation of the mediterranean climate with milder summers and overall more moist conditions over the year. Occurs at the encounter of oceanic and mediterranean climates, such as northern Spain and the Pacific Northwest
+
+
+==== Continental (Dfa, Dwa, Dsa, Dfb, Dwb, Dsb) ====
+The Continental climates, as opposed to the oceanic climates have strikingly extreme seasonal differences. With less moderating effect from ocean currents and more influence from tropical and polar large-size continental land air-masses they feature more extreme temperatures in each respective season, with summers getting as hot as those of subtropical or tropical climates and winters as cold as in subpolar and even polar climates. They are almost exclusively found only on the northern hemisphere, because it is only wehre there is enough continental landmass at the common latitudes for this climate with the surrounding continental characteristics that create it (Large landmass on the temperate zone, the tropics and the poles), in much of North America, mostly in the northern United States and southernCanada, and Eurasia, in eastern, central and northern Europe, central and eastern Asia, in much of Russia and northern China. They feature dry seasons depending on their closeness to other temperate climates, Mediterranean Continental usually on the west, Monsoonal Continental on the east, Humid Continental near oceanic and humid subtropical regions. In the southern hemisphere, small stretches of it are found though in more alpine conditions in South America, Southern Africa, Australia and New Zealand.
+
+
+=== Supolars ===
+These are temperate climates that opposite to the subtropicals are on the poleward edge of the temperate zone, therefore still have four marked seasons including a warmer one, but are far more influenced by the poles than any other but the very polar climates (Tundra and Icecap).
+
+
+==== Subpolar-Oceanic (Cfc, Cwc, Csc) ====
+Areas with subpolar oceanic climates feature an oceanic climate but are usually located closer to polar regions. As a result of their location, these regions tend to be on the cool end of oceanic climates. Snowfall tends to be more common here than in other oceanic climates. Subpolar oceanic climates are less prone to temperature extremes than subarctic climates or continental climates, featuring milder winters than these climates.This variant of an oceanic climate is found in parts of coastal Iceland, the Faroe Islands, parts of Scotland, northwestern coastal areas of Norway such as Lofoten and reaching to 70°N on some islands, uplands near the coast of southwestern Norway, the Aleutian Islands of Alaska and northern parts of the Alaskan Panhandle, the far south of Chile and Argentina, and a few highland areas of Tasmania, and the Australian and Southern Alps. This type of climate is even found in the very remote parts of the Papuan Highlands in Indonesia. The classification used for this regime is Cfc. In the most marine of those areas affected by this regime, temperatures above 20 °C (68 °F) are extreme weather events, even in the midst of summer. Temperatures above 30 °C (86 °F) have been recorded on rare occasions in some areas of this climate, and in winter temperatures down to −20 °C (−4 °F) have seldom been recorded in some areas.
+
+
+==== Boreal/Subarctic (Dfc, Dwc, Dsc, Dfd, Dwd, Dsd) ====
+Mostly north of Humid Continental zones this climate feture extremely cold and long winters, with short mild summers. In very small areas at high altitudes around the Mediterranean Basin, Iran, Kyrgyzstan, Tajikistan, Turkey, Alaska and other parts of the northwestern United States (Eastern Washington, Eastern Oregon and Southern Idaho) and Russian South-Eastern regions the climate is classified as Dsc with a dry summer climate, such as in Seneca, Oregon or Atlin, British Columbia. This is the closest to the polar climates of all four-season temperate climates as practically all of the year is set up by extremely low temperatures, except for summer.
+
+
+== Human aspects ==
+
+
+=== Demography, fauna and flora ===
+The vast majority of the world's human population resides in temperate zones, especially in the Northern Hemisphere, due to its greater mass of land. The biggest described number in temperate region in the world is found in southern Africa, where some 24,000 taxa (species and infraspecific taxa) have been described, but the native fauna and flora of this region does not have much cultural importance for the majority of the human population of the world that lives in Temperate Zones and that live in the Northern Hemisphere, only environmental importance.
+
+
+=== Agriculture ===
+Farming is a large-scale practice in the temperate regions (except for Boreal/Subarctic regions) due to the plentiful rainfall and warm summers, because most agricultural activity occurs in the spring and summer, cold winters have a small effect on agricultural production. Extreme winters or summers have a huge impact on the productivity of agriculture.
+
+
+=== Urbanization ===
+Temperate regions have the majority of the world's population, which leads to large cities. There are a couple factors why the climate of large city landscapes differs from the climate of rural areas. One factor is the strength of the absorption rate of builds and asphalt, which is higher than natural land. The other large factor is the burning of fossil fuels from buildings and vehicles. These factors have led to the average climate of cities to be warmer than surrounding areas.
+
+
+== Misconceptions ==
+"Temperate Climate" refers to climates between Polar and Tropical. However, there is a gradual change from polar to tropical climates across the middle latitude temperate zones. Normally the northern portions of the temperate zone feature Boreal, Continental, and Oceanic climates, while the southern portions of the temperate zone are often Mediterranean and humid subtropical climates. These different climates all fall within the temperate zone which has a basic definition as being any climate with a mean temperature above −3 °C (26.6 °F) but below 18 °C (64.4 °F) in the coldest month. Obviously winter temperatures will be more mild in southerly portions and colder in the more northerly portions of the northern temperate zone and vice-versa in the southern temperate zone.
+From a floristic standpoint, each of these climate zones have generally temperate vegetation. There is however, an obvious change in flora from the far northern portions of the temperate zone (Boreal) to the far southern portion (humid subtropical). Pines and conifers are endemic and more abundant in the northern portion of the temperate, while palms may be endemic to far southern portions of the temperate zone. Along with this, the humid subtropical climate may be wrongly separated from the Temperate group of climates, and further associated with the Tropical climates, much because of its name, temperatures and the vegetation found in Subtropical zones which can be somewhat similar to that of Tropical regions (For instance the Atlantic Forest of Brazil is spread across both Temperate and Tropical zones of the country). Additionally, both temperate and tropical species can be found side by side in the far southern portions of the temperate zone (for example in central Florida), while subarctic species might be found growing in northern portions of the continental zone (for example in Northwest Europe).
+
+
+== See also ==
+Geographical zone
+Habitat
+Köppen climate classification
+Middle latitudes
+Polar circle
+Subtropics
+
+
+== References ==

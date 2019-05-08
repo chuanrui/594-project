@@ -1,0 +1,44 @@
+Google Classroom is a free web service developed by Google for schools that aim to simplify creating, distributing and grading assignments in a paperless way. The primary purpose of Google Classroom is to streamline the process of sharing files between teachers and students.Google Classroom combines Google Drive for assignment creation and distribution, Google Docs, Sheets and Slides for writing, Gmail for communication, and Google Calendar for scheduling.  Students can be invited to join a class through a private code, or automatically imported from a school domain. Each class creates a separate folder in the respective user's Drive, where the student can submit work to be a graded by a teacher. Mobile apps, available for iOS and Android devices, let users take photos and attach to assignments, share files from other apps, and access information offline. Teachers can monitor the progress for each student, and after being graded, teachers can return work along with comments.
+
+
+== History ==
+Google Classroom was announced on May 6, 2014, with a preview available for some members of Google's G Suite for Education program. It was released publicly on August 12, 2014. On June 29, 2015, Google announced a Classroom API and a share button for websites, allowing school administrators and developers to further engage with Google Classroom. On August 24, Google integrated Google Calendar into Classroom for assignment due dates, field trips and class speakers. In March 2017, Google opened Classroom to allow any personal Google users to join classes without the requirement of having a G Suite for Education account, and in April, it became possible for any personal Google user to create and teach a class.On August 7, 2018, Google announced a classroom refresh, adding a classwork section, improving the grading interface, allowing reuse of classwork from other classes, and adding features for teachers to organize content by topic.On January 9, 2019, Google introduced 78 new illustrated themes and the option to drag and drop topics and assignments in the classwork section.
+
+
+== Features ==
+Google Classroom ties Google Drive, Google Docs, Sheets and Slides, and Gmail together to help educational institutions go to a paperless system. Google Calendar was later integrated to help with assignment due dates, field trips, and class speakers. Students can be invited to classrooms through the institution's database, through a private code that can then be added in the student's user interface or automatically imported from a school domain. Each class created with Google Classroom creates a separate folder in the respective user's Google Drive, where the student can submit work to be graded by a teacher.
+
+
+=== Assignments ===
+Assignments are stored and graded on Google's suite of productivity applications that allow collaboration between the teacher and the student or student to student. Instead of sharing documents that reside on the student's Google Drive with the teacher, files are hosted on the student's Drive and then submitted for grading. Teachers may choose a file that can then be treated as a template so that every student can edit their own copy and then turn back in for a grade instead of allowing all students to view, copy, or edit the same document. Students can also choose to attach additional documents from their Drive to the assignment.
+
+
+=== Grading ===
+Google Classroom supports many different grading schemes. Teachers have the option to attach files to the assignment which students can view, edit, or get an individual copy. Students can create files and then attach them to the assignment if a copy of a file wasn't created by the teacher. Teachers have the option to monitor the progress of each student on the assignment where they can make comments and edit. Turned in assignments can be graded by the teacher and returned with comments to allow the student to revise the assignment and turn back in. Once graded, assignments can only be edited by the teacher unless the teacher turns the assignment back in.
+
+
+=== Communication ===
+Announcements can be posted by teachers to the class stream which can be commented on by students allowing for two-way communication between the teacher and students. Students can also post to the class stream but won't be as high of a priority as an announcement by a teacher and can be moderated. Multiple types of media from Google products such as YouTube videos and Google Drive files can be attached to announcements and posts to share content. Gmail also provides email options for teachers to send emails to one or more students in the Google Classroom interface. Classroom can be accessed on the web or via the Android and iOS Classroom mobile apps.
+
+
+=== Archive course ===
+Classroom allows instructors to archive courses at the end of a term or year. When a course is archived, it is removed from the homepage and placed in the Archived Classes area to help teachers keep their current classes organized. When a course is archived, teachers and students can view it, but won't be able to make any changes to it until it is restored.
+
+
+=== Mobile applications ===
+Google Classroom mobile apps, introduced in January 2015, are available for iOS and Android devices. The apps let users take photos and attach them to their assignments, share files from other apps, and support offline access.
+
+
+=== Privacy ===
+In contrast to Google's consumer services, Google Classroom, as part of G Suite for Education, does not show any advertisements in its interface for students, faculty, and teachers, and user data is not scanned or used for advertising purposes.
+
+
+== Reception ==
+eLearningIndustry tested and made a review of Google Classroom, in which they highlighted many positive and negative aspects. Among Classroom's strengths, the review highlighted ease of use, universal device accessibility, use of Google Drive as an effective way for teachers to quickly share assignments with students, the paperless process meaning the end of printing, handing out, and potentially losing work, and the fast feedback system between students and teachers. Among Classroom's disadvantages, the review highlighted the service's heavy integration of Google apps and services with limited or no support for external files or services, lack of automated quizzes and tests, and a lack of live chats that can aid in feedback efforts.Google has been criticized for allegedly data mining students' browsing history, searches, and other usage of services for advertising. In April 2014, Google announced that it would stop scanning students' Gmail messages for advertising purposes, following privacy concerns. TechCrunch wrote that, while ads weren't included in the education program, data and information learned from users through the program was used to show advertisements at later times in other areas. On December 1, 2015, the Electronic Frontier Foundation filed a complaint with the Federal Trade Commission, alleging that Google "broke a pledge to honor student privacy with its educational tools". EFF staff attorney Sophia Cope stated that "We are calling on the FTC to investigate Google's conduct, stop the company from using student personal information for its own purposes, and order the company to destroy all information it has collected that's not for educational purposes". Google responded the following day: "While we appreciate the EFF’s focus on student data privacy, we are confident that our tools comply with both the law and our promises, including the Student Privacy Pledge, which we signed earlier this year". The Foundation made new allegations against Google in April 2017, focusing particularly on the company's actions of "dumping millions of low-cost Chromebooks on U.S. schools, enabling the mass collection and storage of information on children without the consent of their parents".
+
+
+== References ==
+
+
+== External links ==
+Official website

@@ -1,0 +1,164 @@
+The following is a list of operating systems released by Apple Inc.
+
+
+== Apple computers ==
+
+
+=== Apple II ===
+Apple DOS is the first operating system for Apple computers
+Apple ProDOS
+Apple GS/OS
+
+
+=== Apple III ===
+Apple SOS
+
+
+=== Apple Lisa ===
+Lisa OS
+MacWorks XL
+
+
+== Macintosh computers ==
+
+
+=== Classic Mac OS ===
+
+System 1
+System 2
+System 3
+System 4
+System Software 5 – also marketed as System 5
+System Software 6 – also marketed as System 6
+System 7 – System 7.5.1 was the first to refer to itself as Mac OS, Mac OS 7.6 was the first to be branded as "Mac OS"
+Mac OS 8
+Mac OS 9 – Mac OS 9.2.2 was the last version of Classic Mac OS
+
+
+=== macOS ===
+
+macOS was previously known as Mac OS X and later OS X.
+
+Mac OS X Public Beta – code name Kodiak
+Mac OS X 10.0 – code name Cheetah
+Mac OS X 10.1 – code name Puma
+Mac OS X 10.2 – also marketed as Jaguar
+Mac OS X Panther – 10.3
+Mac OS X Tiger – 10.4
+Mac OS X Leopard – 10.5
+Mac OS X Snow Leopard – 10.6
+Mac OS X Lion – 10.7 – also marketed as OS X Lion
+OS X Mountain Lion – 10.8
+OS X Mavericks – 10.9
+OS X Yosemite – 10.10
+OS X El Capitan – 10.11
+macOS Sierra – 10.12
+macOS High Sierra – 10.13
+macOS Mojave – 10.14
+
+
+==== macOS Server ====
+
+macOS Server was previously known as Mac OS X Server and later OS X Server.
+
+Mac OS X Server 1.0 – code name Hera, also referred to as Rhapsody
+Mac OS X Server 10.0 – code name Cheetah
+Mac OS X Server 10.1 – code name Puma
+Mac OS X Server 10.2 – code name Jaguar
+Mac OS X Server 10.3 – code name Panther
+Mac OS X Server 10.4 – code name Tiger
+Mac OS X Server 10.5 – also marketed as Leopard Server
+Mac OS X Server 10.6 – also marketed as Snow Leopard ServerStarting with Lion, there is no separate Mac OS X Server operating system. Instead the server components are a separate download from the Mac App Store.
+
+Mac OS X Lion Server – 10.7 – also marketed as OS X Lion Server
+OS X Mountain Lion Server – 10.8 – also marketed as Mountain Lion Server
+OS X Mavericks Server – 10.9 – also marketed as Mavericks Server
+OS X Yosemite Server – 10.10 – also marketed as Yosemite Server 4.0
+OS X 10.11 Server 5.0 – also marketed as OS X Server 5.0
+OS X 10.11 Server 5.1 – also marketed as OS X Server 5.1
+macOS 10.12 Server 5.2 – also marketed as macOS Server 5.2
+macOS 10.12 Server 5.3 – also marketed as macOS Server 5.3
+macOS 10.13 Server 5.4 – also marketed as macOS Server 5.4
+macOS 10.13 Server 5.5 – also marketed as macOS Server 5.5
+
+
+==== Other macOS-related releases ====
+NeXTSTEP
+OpenStep
+Darwin
+
+
+=== Others ===
+A/ROSE
+A/UX
+AIX for Apple Network Servers
+Macintosh Application Environment
+MkLinux
+PowerOpen Environment
+Star Trek – unreleased
+Taligent – unreleased
+Copland – unreleased
+
+
+== Newton ==
+Newton OS
+
+
+== iPod ==
+
+iPod OS
+
+
+== Apple TV ==
+
+
+=== Apple TV Software ===
+
+Apple TV Software 1 – derived from Mac OS X 10.4 Tiger
+Apple TV Software 2 – derived from Mac OS X 10.4 Tiger
+Apple TV Software 3 – derived from Mac OS X 10.4 Tiger
+Apple TV Software 4 – derived from iOS 4 and iOS 5
+Apple TV Software 5 – derived from iOS 5 and iOS 6
+Apple TV Software 6 – derived from iOS 7
+Apple TV Software 7 – derived from iOS 8There was no Apple TV Software 8, version 8 was skipped when moving to tvOS.
+
+
+=== tvOS ===
+
+tvOS 9 – derived from iOS 9
+tvOS 10 – derived from iOS 10
+tvOS 11 – derived from iOS 11
+tvOS 12 – derived from iOS 12
+
+
+== iOS ==
+
+iOS was previously known as iPhone OS, despite also being available on the iPod Touch (1st, 2nd, and 3rd generations) and the original iPad.
+
+iPhone OS 1 – derived from "OS X" (At the time, "macOS" was still known as "Mac OS X" and not "OS X" as it was known from 2012 to 2016.)
+iPhone OS 2
+iPhone OS 3
+iOS 4 – continued from iPhone OS 3
+iOS 5
+iOS 6
+iOS 7
+iOS 8
+iOS 9
+iOS 10
+iOS 11
+iOS 12
+
+
+== watchOS ==
+
+watchOS 1 – derived from iOS 8
+watchOS 2 – derived from iOS 9
+watchOS 3 – derived from iOS 10
+watchOS 4 – derived from iOS 11
+watchOS 5 – derived from iOS 12
+
+
+== Table of operating systems ==
+
+
+=== Notes ===

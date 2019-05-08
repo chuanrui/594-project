@@ -1,0 +1,43 @@
+A government bond or sovereign bond is a bond issued by a national government, generally with a promise to pay periodic interest payments and to repay the face value on the maturity date. Government bonds are usually denominated in the country's own currency, in which case the government cannot be forced to default, although it may choose to do so. If a government is close to default on its debt the media often refer to this as a sovereign debt crisis.The terms on which a government can sell bonds depend on how creditworthy the market considers it to be. International credit rating agencies will provide ratings for the bonds, but market participants will make up their own minds about this.
+
+
+== History ==
+The first general government bonds were issued in the Netherlands in 1517. Because the Netherlands did not exist at that time, the bonds issued by the city of Amsterdam are considered their predecessor which later merged into Netherlands government bonds. The average interest rate at that time fluctuated around 20%.
+The first ever bond issued by a national government was issued by the Bank of England in 1694 to raise money to fund a war against France. It was in the form of a tontine. The Bank of England and government bonds were introduced in England by William III of England (also called William of Orange), who financed England's war efforts by copying the approach of issuing bonds and raising government debt from the Seven Dutch Provinces, where he ruled as a Stadtholder.
+Later, governments in Europe started issuing perpetual bonds (bonds with no maturity date) to fund wars and other government spending. The use of perpetual bonds ceased in the 20th century, and currently governments issue bonds of limited term to maturity.
+
+
+== Risks ==
+
+
+=== Credit risk ===
+A government bond in a country's own currency is strictly speaking a risk-free bond, because the government can if necessary create additional currency in order to redeem the bond at maturity. There have however been instances where a government has chosen to default on its domestic currency debt rather than create additional currency, such as Russia in 1998 (the "ruble crisis") (see national bankruptcy).
+
+
+=== Currency risk ===
+Currency risk is the risk that the value of the currency a bond pays out will decline compared to the holder's reference currency. For example, a German investor would consider United States bonds to have more currency risk than German bonds (since the dollar may go down relative to the euro); similarly, a United States investor would consider German bonds to have more currency risk than United States bonds (since the euro may go down relative to the dollar). A bond paying in a currency that does not have a history of keeping its value may not be a good deal even if a high interest rate is offered.
+
+
+=== Inflation risk ===
+Inflation risk is the risk that the value of the currency a bond pays out will decline over time. Investors expect some amount of inflation, so the risk is that the inflation rate will be higher than expected. Many governments issue inflation-indexed bonds, which protect investors against inflation risk by linking both interest payments and maturity payments to a consumer prices index.
+
+
+== Money supply ==
+If a central bank purchases a government security, such as a bond or treasury bill, it increases the money supply, in effect creating money.
+
+
+== United Kingdom ==
+In the UK, government bonds are called gilts. Older issues have names such as "Treasury Stock" and newer issues are called "Treasury Gilt". Inflation-indexed gilts are called Index-linked gilts.UK gilts have maturities stretching much further into the future than other European government bonds, which has influenced the development of pension and life insurance markets in the respective countries.
+
+
+== See also ==
+Consol
+Foreign exchange reserves of the People's Republic of China
+Government debt
+List of government bonds
+Municipal bond
+Treasury
+War Bonds
+
+
+== References ==

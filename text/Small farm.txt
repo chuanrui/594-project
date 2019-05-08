@@ -1,0 +1,34 @@
+The definition of a small farm has varied over time and by country. Agricultural economists have analyzed the distinctions among farm sizes since the field's inception. Traditional agricultural economic theory considered small farms inefficient, a stance that began to be challenged in the 1950s. An overview of research published by the World Bank in 1998 indicated that the productivity of small farms often exceeded that of larger ones.
+
+
+== United States ==
+Several definitions of the term have been formulated in legislation. In 1977 the US Congress, via the Food and Agriculture Act of 1977, defined a small farm as one with sales under $20,000. At the time these comprised 70% of farms in the US. The Act sponsored additional research on small farming operations by US land grant universities and their extension services and mandated that an annual report on these activities be issued by the US Secretary of Agriculture. A 1997 study by the United States Small Farms Commission defined small farms as those with less than $250,000 in gross receipts annually on which day-to-day labor and management are provided by the farmer and/or the farm family that owns the production, or owns or leases the productive assets.  In 2000, such farms accounted for about 90% of the more than 2.1 million U.S. farms, but only about 40% of U.S. farm production.
+The concentration of production on fewer and larger operations is a longstanding concern among some segments of the agricultural community.  Others view these changes as inevitable, and even necessary to maintain the efficiency and competitiveness of the sector.
+Farm typology analysis by the USDA Economic Research Service divides the small family farm category into five groups:
+
+limited-resource farms;
+retirement farms;
+residential/lifestyle farms;
+farming occupation/lower-sales,
+farming occupation/high-sales.
+
+
+=== Technology for small farmers ===
+Many farmers are upset by their inability to fix the new types of high-tech farm equipment. This is due mostly to companies using intellectual property law to prevent farmers from having the legal right to fix their equipment (or gain access to the information to allow them to do it).  This has encouraged groups such as Open Source Ecology and Farm Hack to begin to make open source agricultural machinery.
+
+
+== European Union ==
+Debate concerning the role of small farms within the European Union is ongoing. As of 2009, it had not established a formal definition of the term that could be used in its Common Agricultural Policy, although public perception of their possible benefits has led to requests for further studies from the European Commission.
+
+
+== See also ==
+Croft
+Hobby farm
+Smallholding
+
+
+== References ==
+
+
+== Bibliography ==
+Thomas, Frieder; Schmidt, Götz (2006). Förderung von Existenzgründungen in der Landwirtschaft: ein Projekt im Auftrag des BMELV (03HS016): Projektbericht. Münster-Hiltrup: Landwirtschaftsverlag. ISBN 3-7843-0513-X. This article incorporates public domain material from the Congressional Research Service document "Report for Congress: Agriculture: A Glossary of Terms, Programs, and Laws, 2005 Edition" by Jasper Womach.

@@ -1,0 +1,78 @@
+Cumulonimbus (from Latin cumulus, "heaped" and nimbus, "rainstorm") is a dense, towering vertical cloud, forming from water vapor carried by powerful upward air currents. If observed during a storm, these clouds may be referred to as thunderheads. Cumulonimbus can form alone, in clusters, or along cold front squall lines. These clouds are capable of producing lightning and other dangerous severe weather, such as tornadoes. Cumulonimbus progress from overdeveloped cumulus congestus clouds and may further develop as part of a supercell.   Cumulonimbus is abbreviated Cb.
+
+
+== Appearance ==
+Towering cumulonimbus clouds are typically accompanied by smaller cumulus clouds. The cumulonimbus base may extend several miles across and occupy low to middle altitudes - formed at altitude from approximately 200 to 4,000 m (700 to 10,000 ft).   Peaks typically reach to as much as 12,000 m (39,000 ft), with extreme instances as high as 21,000 m (69,000 ft) or more.   Well-developed cumulonimbus clouds are characterized by a flat, anvil-like top (anvil dome), caused by wind shear or inversion near the tropopause. The shelf of the anvil may precede the main cloud's vertical component for many miles, and be accompanied by lightning. Occasionally, rising air parcels surpass the equilibrium level (due to momentum) and form an overshooting top culminating at the maximum parcel level. When vertically developed, this largest of all clouds usually extends through all three cloud regions.  Even the smallest cumulonimbus cloud dwarfs its neighbors in comparison.
+
+
+=== Species ===
+Cumulonimbus calvus: cloud with puffy top, similar to cumulus congestus which it develops from; under the correct conditions it can become a cumulonimbus capillatus.
+Cumulonimbus capillatus: cloud with cirrus-like, fibrous-edged top.
+		
+		
+
+
+=== Supplementary features ===
+
+
+==== Accessory clouds ====
+Arcus (including roll and shelf clouds): low, horizontal cloud formation associated with the leading edge of thunderstorm outflow.
+Pannus: accompanied by a lower layer of fractus species cloud forming in precipitation.
+Pileus (species calvus only): small cap-like cloud over parent cumulonimbus.
+Velum: a thin horizontal sheet that forms around the middle of a cumulonimbus.
+
+
+==== Supplementary features ====
+Incus (species capillatus only): cumulonimbus with flat anvil-like cirriform top caused by wind shear where the rising air currents hit the inversion layer at the tropopause.
+Mamma or mammatus: consisting of bubble-like protrusions on the underside.
+Tuba: column hanging from the cloud base which can develop into a funnel cloud or tornado. They are known to drop very low, sometimes just 20 feet (6 m) above ground level.
+Flanking line is a line of small cumulonimbus or cumulus generally associated with severe thunderstorms.
+
+
+==== Precipitation-based supplementary features ====
+Rain: precipitation that reaches the ground as liquid, often in a precipitation shaft.
+Virga: precipitation that evaporates before reaching the ground.
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+== Effects ==
+
+Cumulonimbus storm cells can produce torrential rain of a convective nature (often in the form of a rain shaft) and flash flooding, as well as straight-line winds. Most storm cells die after about 20 minutes, when the precipitation causes more downdraft than updraft, causing the energy to dissipate. If there is enough solar energy in the atmosphere, however (on a hot summer day, for example), the moisture from one storm cell can evaporate rapidly—resulting in a new cell forming just a few miles from the former one. This can cause thunderstorms to last for several hours. Cumulonimbus clouds can also bring dangerous winter storms (called "blizzards") which bring lightning, thunder, and torrential snow. However, cumulonimbus clouds are most common in tropical regions.
+
+
+== Life cycle or stages ==
+In general, cumulonimbus require moisture, an unstable air mass, and a lifting force (heat) in order to form. Cumulonimbus typically go through three stages: the developing stage, the mature stage (where the main cloud may reach supercell status in favorable conditions), and the dissipation stage. The average thunderstorm has a 24 km (15 mi) diameter. Depending on the conditions present in the atmosphere, these three stages take an average of 30 minutes to go through.
+
+
+== Cloud types ==
+
+Clouds form when the dewpoint of water is reached in the presence of condensation nuclei in the troposphere. The atmosphere is a dynamic system, and the local conditions of turbulence, uplift and other parameters give rise to many types of clouds. Various types of cloud occur frequently enough to have been categorized. Furthermore, some atmospheric processes can make the clouds organize in distinct patterns such as wave clouds or actinoform clouds. These are large-scale structures and are not always readily identifiable from a single point of view.
+
+
+== See also ==
+
+Atmospheric convection
+Atmospheric thermodynamics
+Convective instability
+Cumulonimbus and aviation
+Hot tower
+Pyrocumulonimbus
+William Rankin
+Clouds
+
+
+== References ==
+
+
+== External links ==
+Clouds-Online.com Cloud Atlas with many photos and description of the different cloud genera
+MetOffice.gov.uk Learn about thunderstorms and how cumulonimbus clouds form
